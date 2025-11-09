@@ -9,3 +9,5 @@ Simple Interest = (Principal * Rate * Time) / 100
 Run the script in a Linux terminal:
 ```bash
 bash simple-interest.sh
+
+This line was added in the bug-fix-typo branch for demonstration.
